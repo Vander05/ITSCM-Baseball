@@ -30,3 +30,4 @@ def predict_playoffs(runs_scored, runs_allowed, wins, obp, slg, batting_avg):
 # Call the prediction function and print the result
 prediction = predict_playoffs(runs_scored, runs_allowed, wins, obp, slg, batting_avg)
 print(prediction)
+print(GO Brew Crew) 
